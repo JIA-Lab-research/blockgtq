@@ -1,0 +1,15 @@
+{
+    "qasper": 128,
+    "multifieldqa_en": 64,
+    "hotpotqa": 32,
+    "2wikimqa": 32,
+    "gov_report": 512,
+    "trec": 64,
+    "passage_retrieval_en": 32,
+    "lcc": 64,
+    "qmsum": 512,
+    "multi_news": 512,
+    "triviaqa": 32,
+    "samsum": 128,
+    "repobench-p": 64
+}
