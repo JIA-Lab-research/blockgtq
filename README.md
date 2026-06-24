@@ -1,4 +1,7 @@
 # Block-GTQ: RoPE-Aware Bit Allocation for KV-Cache Quantization
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.24033-b31b1b.svg)](https://arxiv.org/abs/2606.24033)
+
 **Block-GTQ** is a RoPE-aware bit allocator for key-cache quantization. Under
 RoPE, a cached key's contribution to a future attention logit decomposes into a
 position-dependent sum over 2-D frequency blocks, so a key is not used through a
@@ -179,7 +182,7 @@ Contributions for the Turing and Apple-MLX kernels are welcome.
 @article{blockgtq2026,
   title  = {RoPE-Aware Bit Allocation for KV-Cache Quantization},
   author = {Fengfeng Liang and Yuechen Zhang and Jiaya Jia},
-  journal= {arXiv preprint},
+  journal= {arXiv preprint arXiv:2606.24033},
   year   = {2026}
 }
 ```
